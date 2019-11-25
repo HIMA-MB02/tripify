@@ -1,0 +1,23 @@
+.hoverEffect:hover {
+    background-color: rgb(202, 199, 246);
+    }
+    thead {
+        border-radius: 40px !important;
+    }
+   
+    .noHover:hover {
+    background-color: white;
+    }
+    .fixit:hover {
+        background-color: rgb(202, 199, 246) !important  ;
+    }
+    Select{
+        background-color: rgb(237, 238, 238);
+
+    }
+    #resize {
+        height: 38px;
+        color: rgb(128, 128, 128) !important;
+        background-color: rgb(250, 248, 248);
+        width: 125% !important;
+    }

@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+Button {
+  background: linear-gradient(to right, rgb(126, 117, 250),  rgb(90, 78, 255));
+  /* background-color: black; */
+  color: white !important;
+  /* align-items: 'center'; */
+}
+.background {
+  background-color: rgb(231, 231, 231);
+  height: 110vh;
+  min-height: 102vh;
+  max-height: 200vh;
+}
+hr {
+  color: rgb(174, 169, 245),;
+}
+.radius {
+  border-radius: 10px;
+  padding: 4px;
+  box-shadow: 2px 3px #ab17e6 ;
+}
+
