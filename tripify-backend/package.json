@@ -16,6 +16,6 @@
     "mongoose": "^5.7.7"
   },
   "devDependencies": {
-    "nodemailer": "^6.3.1"
+    "nodemailer": "^6.4.16"
   }
 }
